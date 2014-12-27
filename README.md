@@ -1,0 +1,4 @@
+participantsManager
+===================
+
+participantsManager for Contao
